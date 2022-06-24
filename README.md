@@ -23,4 +23,6 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 ![Easy Ensemble Classifier](https://github.com/rivas-j/Credit_Risk_Analysis/blob/386a96bcc459c26c60a18db4d51d6db21df909c7/Resources/6-EasyEnsembleClassifier.png)
 
 
-## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+## Summary
+
+After reviewing all of the samples, we recommend the Easy Ensemble Classifier to run the credit risk analysis. The algorithm yielded the highest balanced accuracy at 92%. Given the sensitive nature of assessing risk for lenders, we want the model that yields the most accurate results. 
