@@ -4,7 +4,7 @@
     <img src=images/mlrisk.jpg>
 </div>
 
-## <div align="center">Utilizing Machine Learning to analyze and assess Credit Risk</div>
+## <div align="center">Utilizing Machine Learning to Analyze and Assess Credit Risk</div>
 
 <p align="center">
 <a href="#goals">Goals</a> &nbsp;&bull;&nbsp;
